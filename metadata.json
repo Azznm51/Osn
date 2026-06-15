@@ -1,0 +1,6 @@
+{
+  "name": "GeOSN",
+  "description": "Aplikasi interaktif rangkuman materi dan latihan soal HOTS untuk persiapan kompetisi OSN Geografi dengan statistik belajar real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
